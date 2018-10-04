@@ -1,5 +1,6 @@
 *{
     margin: 0;
+    font-family: 'Courier New', Courier, monospace;
 
 }
 .nav{
@@ -13,7 +14,7 @@
 .main{
     min-height:400px;
     background: #b4b4d870;
-
+    padding:30px;
 }
 .search-button{
     margin-top:40px;
