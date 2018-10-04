@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+
+}
+.nav{
+    height:80px;
+    background:#ccc9c9ba;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:26px;
+    text-align: center;
+}
+
+.main{
+    min-height:400px;
+    background: #b4b4d870;
+
+}
+.search-button{
+    margin-top:40px;
+    
+}
+
